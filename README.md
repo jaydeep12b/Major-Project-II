@@ -33,20 +33,4 @@ The prediction engine is integrated with a user-friendly interface to help inves
 
 ---
 
-## 📂 Project Structure
 
-│
-├── data/
-│ └── yahoo_finance_data.csv # Historical stock data
-│
-├── models/
-│ └── lstm_model.h5 # Saved trained LSTM model
-│
-├── notebooks/
-│ └── analysis.ipynb # Exploratory Data Analysis & Model Training
-│
-├── app/
-│ └── streamlit_app.py # Web UI for live predictions (optional)
-│
-├── README.md # Project documentation
-└── requirements.txt # Python dependencie
