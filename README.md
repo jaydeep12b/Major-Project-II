@@ -10,11 +10,8 @@ The prediction engine is integrated with a user-friendly interface to help inves
 
 - Fetch historical stock data using APIs (Yahoo Finance / NSE / CSV)
 - Data preprocessing and visualization
-- Multiple ML & DL models:
-  - CNN Model
-  - LSTM (Long Short-Term Memory)
-  - CNN-LSTM Hybrid Model
-- Model evaluation using RMSE, MSE, and R² Score
+- Multiple DL models:
+- Model evaluation using RMSE, MSE, and R² Score Accuracy 
 - Performance comparison table & graphs
 - Streamlit / Flask based web interface 
 
